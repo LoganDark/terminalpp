@@ -1,4 +1,4 @@
-#include "terminalpp/canvas.hpp"
+#include "../include/terminalpp/canvas.hpp"
 
 namespace terminalpp {
 

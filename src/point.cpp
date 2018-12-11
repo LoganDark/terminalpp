@@ -1,4 +1,4 @@
-#include "terminalpp/point.hpp"
+#include "../include/terminalpp/point.hpp"
 #include <ostream>
 
 namespace terminalpp {

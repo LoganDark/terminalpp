@@ -1,5 +1,5 @@
 #pragma once
-#include "terminalpp/core.hpp"
+#include "../core.hpp"
 #include <string>
 
 namespace terminalpp {

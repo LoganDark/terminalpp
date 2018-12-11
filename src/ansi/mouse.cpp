@@ -1,4 +1,4 @@
-#include "terminalpp/ansi/mouse.hpp"
+#include "../../include/terminalpp/ansi/mouse.hpp"
 #include <iostream>
 
 namespace terminalpp { namespace ansi { namespace mouse {

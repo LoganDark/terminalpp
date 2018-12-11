@@ -1,5 +1,5 @@
 #pragma once
-#include "terminalpp/ansi/protocol.hpp"
+#include "ansi/protocol.hpp"
 #include <iostream>
 
 namespace terminalpp {

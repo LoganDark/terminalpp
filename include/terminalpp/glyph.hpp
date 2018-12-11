@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/ansi/protocol.hpp"
-#include "terminalpp/character_set.hpp"
+#include "ansi/protocol.hpp"
+#include "character_set.hpp"
 #include <iosfwd>
 
 namespace terminalpp {

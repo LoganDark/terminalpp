@@ -1,4 +1,4 @@
-#include "terminalpp/character_set.hpp"
+#include "../include/terminalpp/character_set.hpp"
 #include <algorithm>
 #include <iostream>
 

@@ -1,4 +1,4 @@
-#include "terminalpp/glyph.hpp"
+#include "../include/terminalpp/glyph.hpp"
 #include <iomanip>
 #include <iostream>
 

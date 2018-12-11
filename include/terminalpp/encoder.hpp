@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/string.hpp"
+#include "string.hpp"
 #include <string>
 
 namespace terminalpp

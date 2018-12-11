@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/token.hpp"
+#include "../token.hpp"
 
 namespace terminalpp { namespace detail {
 

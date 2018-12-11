@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/canvas.hpp"
+#include "canvas.hpp"
 #include <string>
 
 namespace terminalpp {

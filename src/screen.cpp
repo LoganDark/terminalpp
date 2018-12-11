@@ -1,5 +1,5 @@
-#include "terminalpp/screen.hpp"
-#include "terminalpp/terminal.hpp"
+#include "../include/terminalpp/screen.hpp"
+#include "../include/terminalpp/terminal.hpp"
 
 namespace terminalpp {
 

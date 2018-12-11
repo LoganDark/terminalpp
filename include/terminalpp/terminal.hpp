@@ -1,9 +1,9 @@
 #pragma once
 
-#include "terminalpp/extent.hpp"
-#include "terminalpp/point.hpp"
-#include "terminalpp/string.hpp"
-#include "terminalpp/token.hpp"
+#include "extent.hpp"
+#include "point.hpp"
+#include "string.hpp"
+#include "token.hpp"
 #include <string>
 #include <vector>
 

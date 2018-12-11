@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/detail/ascii.hpp"
+#include "../detail/ascii.hpp"
 
 //* =========================================================================
 /// \namespace terminalpp::ansi::osc

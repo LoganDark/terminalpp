@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/element.hpp"
-#include "terminalpp/extent.hpp"
+#include "element.hpp"
+#include "extent.hpp"
 #include <vector>
 
 namespace terminalpp {

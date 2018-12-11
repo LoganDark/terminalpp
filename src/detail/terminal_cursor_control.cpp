@@ -1,6 +1,6 @@
-#include "terminalpp/behaviour.hpp"
-#include "terminalpp/detail/terminal_cursor_control.hpp"
-#include "terminalpp/detail/terminal_control.hpp"
+#include "../../include/terminalpp/behaviour.hpp"
+#include "../../include/terminalpp/detail/terminal_cursor_control.hpp"
+#include "../../include/terminalpp/detail/terminal_control.hpp"
 
 namespace terminalpp { namespace detail {
 

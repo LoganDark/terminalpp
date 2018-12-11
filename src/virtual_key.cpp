@@ -1,4 +1,4 @@
-#include "terminalpp/virtual_key.hpp"
+#include "../include/terminalpp/virtual_key.hpp"
 #include <iostream>
 
 namespace terminalpp {

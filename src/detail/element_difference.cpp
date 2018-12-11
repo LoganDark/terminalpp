@@ -1,8 +1,8 @@
-#include "terminalpp/detail/element_difference.hpp"
-#include "terminalpp/detail/terminal_charset_control.hpp"
-#include "terminalpp/behaviour.hpp"
-#include "terminalpp/element.hpp"
-#include "terminalpp/ansi/protocol.hpp"
+#include "../../include/terminalpp/detail/element_difference.hpp"
+#include "../../include/terminalpp/detail/terminal_charset_control.hpp"
+#include "../../include/terminalpp/behaviour.hpp"
+#include "../../include/terminalpp/element.hpp"
+#include "../../include/terminalpp/ansi/protocol.hpp"
 #include <boost/format.hpp>
 
 // TODO: In some cases, switching from one character set to the other

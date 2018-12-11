@@ -1,5 +1,5 @@
-#include "terminalpp/manip/terminal_streamer.hpp"
-#include "terminalpp/manip/write_string.hpp"
+#include "../../include/terminalpp/manip/terminal_streamer.hpp"
+#include "../../include/terminalpp/manip/write_string.hpp"
 
 namespace terminalpp {
 

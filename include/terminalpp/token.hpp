@@ -1,8 +1,8 @@
 #pragma once
 
-#include "terminalpp/ansi/control_sequence.hpp"
-#include "terminalpp/ansi/mouse.hpp"
-#include "terminalpp/virtual_key.hpp"
+#include "ansi/control_sequence.hpp"
+#include "ansi/mouse.hpp"
+#include "virtual_key.hpp"
 #include <boost/variant.hpp>
 
 namespace terminalpp {

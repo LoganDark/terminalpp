@@ -1,9 +1,9 @@
-#include "terminalpp/detail/well_known_virtual_key.hpp"
-#include "terminalpp/ansi/control_characters.hpp"
-#include "terminalpp/ansi/csi.hpp"
-#include "terminalpp/ansi/dec_private_mode.hpp"
-#include "terminalpp/ansi/ss3.hpp"
-#include "terminalpp/detail/lambda_visitor.hpp"
+#include "../../include/terminalpp/detail/well_known_virtual_key.hpp"
+#include "../../include/terminalpp/ansi/control_characters.hpp"
+#include "../../include/terminalpp/ansi/csi.hpp"
+#include "../../include/terminalpp/ansi/dec_private_mode.hpp"
+#include "../../include/terminalpp/ansi/ss3.hpp"
+#include "../../include/terminalpp/detail/lambda_visitor.hpp"
 #include <algorithm>
 #include <utility>
 

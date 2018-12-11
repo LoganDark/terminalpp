@@ -1,5 +1,5 @@
-#include "terminalpp/detail/parser.hpp"
-#include "terminalpp/ansi/protocol.hpp"
+#include "../../include/terminalpp/detail/parser.hpp"
+#include "../../include/terminalpp/ansi/protocol.hpp"
 #include <cctype>
 
 namespace terminalpp { namespace detail {

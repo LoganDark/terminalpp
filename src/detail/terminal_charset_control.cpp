@@ -1,4 +1,4 @@
-#include "terminalpp/detail/terminal_charset_control.hpp"
+#include "../../include/terminalpp/detail/terminal_charset_control.hpp"
 
 namespace terminalpp { namespace detail {
 

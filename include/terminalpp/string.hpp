@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/element.hpp"
+#include "element.hpp"
 #include <cstddef>
 #include <initializer_list>
 #include <string>

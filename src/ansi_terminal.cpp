@@ -1,10 +1,10 @@
-#include "terminalpp/ansi_terminal.hpp"
-#include "terminalpp/ansi/osc.hpp"
-#include "terminalpp/detail/terminal_control.hpp"
-#include "terminalpp/detail/terminal_cursor_control.hpp"
-#include "terminalpp/detail/element_difference.hpp"
-#include "terminalpp/detail/parser.hpp"
-#include "terminalpp/detail/well_known_virtual_key.hpp"
+#include "../include/terminalpp/ansi_terminal.hpp"
+#include "../include/terminalpp/ansi/osc.hpp"
+#include "../include/terminalpp/detail/terminal_control.hpp"
+#include "../include/terminalpp/detail/terminal_cursor_control.hpp"
+#include "../include/terminalpp/detail/element_difference.hpp"
+#include "../include/terminalpp/detail/parser.hpp"
+#include "../include/terminalpp/detail/well_known_virtual_key.hpp"
 #include <cassert>
 
 namespace terminalpp {

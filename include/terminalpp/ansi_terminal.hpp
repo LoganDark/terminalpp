@@ -1,9 +1,9 @@
 #pragma once
 
-#include "terminalpp/behaviour.hpp"
-#include "terminalpp/terminal.hpp"
-#include "terminalpp/detail/parser.hpp"
-#include "terminalpp/detail/terminal_control.hpp"
+#include "behaviour.hpp"
+#include "terminal.hpp"
+#include "detail/parser.hpp"
+#include "detail/terminal_control.hpp"
 
 namespace terminalpp {
 

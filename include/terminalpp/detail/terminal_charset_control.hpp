@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/ansi/charset.hpp"
+#include "../ansi/charset.hpp"
 #include <string>
 
 namespace terminalpp { namespace detail {

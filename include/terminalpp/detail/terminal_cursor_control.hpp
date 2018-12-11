@@ -1,6 +1,6 @@
 #pragma once
 
-#include "terminalpp/detail/terminal_control.hpp"
+#include "terminal_control.hpp"
 
 namespace terminalpp {
 

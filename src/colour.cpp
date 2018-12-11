@@ -1,4 +1,4 @@
-#include "terminalpp/colour.hpp"
+#include "../include/terminalpp/colour.hpp"
 #include <iostream>
 
 namespace terminalpp {

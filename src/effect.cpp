@@ -1,4 +1,4 @@
-#include "terminalpp/effect.hpp"
+#include "../include/terminalpp/effect.hpp"
 #include <iostream>
 
 namespace terminalpp {

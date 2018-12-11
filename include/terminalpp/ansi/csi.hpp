@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/detail/ascii.hpp"
-#include "terminalpp/core.hpp"
+#include "../detail/ascii.hpp"
+#include "../core.hpp"
 
 //* =========================================================================
 /// \namespace terminalpp::ansi::csi

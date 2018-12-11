@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/ansi/control_sequence.hpp"
-#include "terminalpp/detail/ascii.hpp"
+#include "ansi/control_sequence.hpp"
+#include "detail/ascii.hpp"
 #include <boost/variant.hpp>
 #include <iosfwd>
 

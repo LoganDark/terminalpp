@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/colour.hpp"
-#include "terminalpp/effect.hpp"
+#include "colour.hpp"
+#include "effect.hpp"
 #include <iosfwd>
 
 namespace terminalpp {

@@ -1,4 +1,4 @@
-#include "terminalpp/element.hpp"
+#include "../include/terminalpp/element.hpp"
 #include <iostream>
 
 namespace terminalpp {

@@ -1,4 +1,4 @@
-#include "terminalpp/ansi/control_sequence.hpp"
+#include "../../include/terminalpp/ansi/control_sequence.hpp"
 #include <iostream>
 #include <numeric>
 

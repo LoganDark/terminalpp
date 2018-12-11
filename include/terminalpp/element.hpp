@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/attribute.hpp"
-#include "terminalpp/glyph.hpp"
+#include "attribute.hpp"
+#include "glyph.hpp"
 #include <iosfwd>
 #include <utility>
 

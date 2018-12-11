@@ -1,4 +1,4 @@
-#include "terminalpp/attribute.hpp"
+#include "../include/terminalpp/attribute.hpp"
 #include <algorithm>
 #include <ostream>
 

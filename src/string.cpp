@@ -1,6 +1,6 @@
-#include "terminalpp/string.hpp"
-#include "terminalpp/element.hpp"
-#include "terminalpp/encoder.hpp"
+#include "../include/terminalpp/string.hpp"
+#include "../include/terminalpp/element.hpp"
+#include "../include/terminalpp/encoder.hpp"
 #include <algorithm>
 #include <cstring>
 #include <limits>

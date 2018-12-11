@@ -1,7 +1,7 @@
 #pragma once
 
-#include "terminalpp/core.hpp"
-#include "terminalpp/detail/ascii.hpp"
+#include "../core.hpp"
+#include "../detail/ascii.hpp"
 #include <boost/optional.hpp>
 #include <string>
 
